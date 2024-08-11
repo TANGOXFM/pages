@@ -1,0 +1,15 @@
+body {
+    background: rgba(0, 0, 0, 0.342);
+    font-size: larger;
+    font-family: sans-serif;
+  }
+  p {
+    color: black;
+    font-family: sans-serif;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: sans-serif;
+    
+  }
